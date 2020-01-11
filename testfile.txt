@@ -1,7 +1,5 @@
 we are writing code for automation 
 
 
+we are learning how to write test cases 
 
-version 1 
-
-version 2 
