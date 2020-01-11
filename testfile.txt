@@ -3,7 +3,7 @@ we are writing code for automation
 
 we are learning how to write test
 
-
+ 1 2 3 4 5 6 
 
 
 we are learning how to use bdd using cucumber 
