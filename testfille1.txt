@@ -1,3 +1,9 @@
 just testing a new file 
 
+<<<<<<< HEAD
 1234 
+=======
+
+
+chekcing how we can change something in remote
+>>>>>>> b22b633dc200d789e3d2d06b120aa854879ceaf9
